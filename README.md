@@ -8,9 +8,9 @@ As per the source code, when the control pins of the relay module receive the LO
 
 Components as be followed by 
 
-ESP32 DEV KIT V1
-8-channel 5V SPDT Relay Module
-Manual Switches
+ESP32 DEV KIT V1,
+8-channel 5V SPDT Relay Module,
+Manual Switches,
 Amazon Echo Dot
 
 Program ESP32 with Arduino IDE
